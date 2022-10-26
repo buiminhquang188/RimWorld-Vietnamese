@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: automated turrets -->
+  <HasAutomatedTurrets_Disapproved.stages.automated_turrets.label>tháp pháo tự động</HasAutomatedTurrets_Disapproved.stages.automated_turrets.label>
+  <!-- EN: We use automated turrets. It's really ugly to give life-and-death decision to a machine. -->
+  <HasAutomatedTurrets_Disapproved.stages.automated_turrets.description>Chúng tôi sử dụng tháp pháo tự động. Thật là xấu xa khi trao quyền quyết định sinh tử cho một cỗ máy</HasAutomatedTurrets_Disapproved.stages.automated_turrets.description>
+  
+  <!-- EN: automated turrets -->
+  <HasAutomatedTurrets_Horrible.stages.automated_turrets.label>tháp pháo tự động</HasAutomatedTurrets_Horrible.stages.automated_turrets.label>
+  <!-- EN: We use automated turrets. It's horrible to give life-and-death decisions to a machine. -->
+  <HasAutomatedTurrets_Horrible.stages.automated_turrets.description>Chúng tôi sử dụng tháp pháo tự động. Thật kinh khủng khi trao quyền quyết định sinh tử cho một cỗ máy</HasAutomatedTurrets_Horrible.stages.automated_turrets.description>
+  
+  <!-- EN: automated turrets -->
+  <HasAutomatedTurrets_Prohibited.stages.automated_turrets.label>tháp pháo tự động</HasAutomatedTurrets_Prohibited.stages.automated_turrets.label>
+  <!-- EN: We use automated turrets. It's absolutely abhorrent to give life-and-death decisions to a machine. -->
+  <HasAutomatedTurrets_Prohibited.stages.automated_turrets.description>Chúng tôi sử dụng tháp pháo tự động. Việc trao quyền quyết định sinh tử cho một cỗ máy thật sự ghê tởm</HasAutomatedTurrets_Prohibited.stages.automated_turrets.description>
+  
+</LanguageData>

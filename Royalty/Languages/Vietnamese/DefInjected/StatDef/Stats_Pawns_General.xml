@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: meditation psyfocus gain -->
+  <MeditationFocusGain.label>tinh thần lực khi thiền</MeditationFocusGain.label>
+  <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
+  <MeditationFocusGain.description>Lượng tinh thần lực mà một người đạt được mỗi ngày khi thiền định, bỏ qua thưởng từ các đối tượng tập trung.</MeditationFocusGain.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatString>{0} / ngày</MeditationFocusGain.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatStringUnfinalized>{0} / ngày</MeditationFocusGain.formatStringUnfinalized>
+  
+  <!-- EN: neural heat gain -->
+  <PsychicEntropyGain.label>tăng nhiệt thần kinh</PsychicEntropyGain.label>
+  <!-- EN: A multiplier on neural heat gained from any source. -->
+  <PsychicEntropyGain.description>các nhiệt thần kinh hấp thụ từ bất kỳ nguồn nào.</PsychicEntropyGain.description>
+  
+  <!-- EN: neural heat limit -->
+  <PsychicEntropyMax.label>giới hạn nhiệt thần kinh</PsychicEntropyMax.label>
+  <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
+  <PsychicEntropyMax.description>Lượng nhiệt thần kinh tối đa mà một cá nhân có thể chịu đựng một cách an toàn.</PsychicEntropyMax.description>
+  
+  <!-- EN: neural heat recovery rate -->
+  <PsychicEntropyRecoveryRate.label>tốc độ giảm nhiệt thần kinh</PsychicEntropyRecoveryRate.label>
+  <!-- EN: The rate at which this person reduces neural heat. -->
+  <PsychicEntropyRecoveryRate.description>Tốc độ mà người này làm giảm nhiệt thần kinh.</PsychicEntropyRecoveryRate.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRate.formatString>{0}/s</PsychicEntropyRecoveryRate.formatString>
+  
+</LanguageData>

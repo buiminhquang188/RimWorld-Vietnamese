@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals learning factor -->
+  <AnimalsLearningFactor.label>yếu tố động vật học</AnimalsLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for animals skill. -->
+  <AnimalsLearningFactor.description>Một hệ số về tỷ lệ học tập cho kỹ năng động vật.</AnimalsLearningFactor.description>
+  
+  <!-- EN: caravan riding speed -->
+  <CaravanRidingSpeedFactor.label>tốc độ cưỡi khi di chuyển của đoàn lữ hành</CaravanRidingSpeedFactor.label>
+  <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
+  <CaravanRidingSpeedFactor.description>Hệ số áp dụng cho tốc độ di chuyển của một người khi họ cưỡi con vật này như một phần của đoàn lữ hành. Động vật chỉ có thể được cưỡi trong các đoàn lữ hành.</CaravanRidingSpeedFactor.description>
+  
+  <!-- EN: carrying capacity -->
+  <CarryingCapacity.label>khả năng mang vác</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
+  <CarryingCapacity.description>Số lượng thứ mà sinh vật này có thể mang trong tay, miệng hoặc các tay thao tác khác.\n\nĐiều này tách biệt với khả năng vận chuyển hàng hóa trong các chuyến đi xuyên thế giới dài.</CarryingCapacity.description>
+  
+  <!-- EN: Maximum comfortable temperature -->
+  <ComfyTemperatureMax.label>Nhiệt độ tối đa thoải mái</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>Quá nhiệt độ này, nhân vật sẽ không vui.\n\nQuá nhiều nhiệt độ này, chúng sẽ bị say nắng và cuối cùng chết.</ComfyTemperatureMax.description>
+  
+  <!-- EN: Minimum comfortable temperature -->
+  <ComfyTemperatureMin.label>Nhiệt độ tối thiểu thoải mái</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>Dưới nhiệt độ này, nhân vật sẽ không vui.\n\nDưới nhiệt độ này, chúng sẽ bị hạ thân nhiệt và tê cóng và cuối cùng sẽ chết.</ComfyTemperatureMin.description>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>tốc độ ăn</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>Một hệ số về tốc độ ăn.</EatingSpeed.description>
+  
+  <!-- EN: filth rate -->
+  <FilthRate.label>tỷ lệ rác rưởi </FilthRate.label>
+  <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
+  <FilthRate.description>Sinh vật này thải ra bao nhiêu rác rưởi.\n\nTốt nhất là để những động vật tạo ra rác rưởi ở ngoài trời hoặc trên thảm rơm nơi rác của chúng không thành vấn đề.</FilthRate.description>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>lượng thức ăn tiêu thụ</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>Lượng dinh dưỡng mà người này sẽ tiêu thụ thức ăn mỗi ngày khi đi bằng đoàn lữ hành.</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>yếu tố học tập toàn cầu</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>Một hệ số về tỷ lệ học tập cho tất cả các kỹ năng.</GlobalLearningFactor.description>
+  
+  <!-- EN: hunger rate multiplier -->
+  <HungerRateMultiplier.label>hệ số đói</HungerRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
+  <HungerRateMultiplier.description>Một hệ số về việc một sinh vật trở nên đói nhanh như thế nào.</HungerRateMultiplier.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>tốc độ tăng miễn dịch</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>Tốc độ mà nhân vật này đạt được miễn dịch với bệnh tật.\n\nNếu điều này quá chậm, nhân vật sẽ chết vì bệnh trước khi phát triển khả năng miễn dịch.</ImmunityGainSpeed.description>
+  
+  <!-- EN: injury healing factor -->
+  <InjuryHealingFactor.label>yếu tố chữa lành vết thương</InjuryHealingFactor.label>
+  <!-- EN: The multiplier applied to a person's injury healing rate. -->
+  <InjuryHealingFactor.description>Hệ số áp dụng cho tỷ lệ chữa lành vết thương của một người.</InjuryHealingFactor.description>
+  
+  <!-- EN: leather amount -->
+  <LeatherAmount.label>số lượng da</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <LeatherAmount.description>Số lượng da mang lại khi tàn sát sinh vật này.</LeatherAmount.description>
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>số lượng thịt</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <MeatAmount.description>Số lượng thịt mang lại khi tàn sát sinh vật này.</MeatAmount.description>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>ngưỡng phá vỡ tinh thần</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>Chừng nào tâm trạng của ai đó còn ở dưới mức này, họ có nguy cơ bị suy sụp tinh thần.\n\nMức độ nghiêm trọng của sự phá vỡ tinh thần sẽ phụ thuộc vào mức độ dưới ngưỡng của họ.</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
+  <MinimumHandlingSkill.label>kỹ năng xử lý tối thiểu</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
+  <MinimumHandlingSkill.description>Sinh vật này không thể được thuần hóa, huấn luyện hoặc chỉ huy bởi bất cứ ai có kỹ năng này ở động vật.</MinimumHandlingSkill.description>
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>tốc độ di chuyển</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>Tốc độ di chuyển mỗi ô trên giây.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>ngưỡng sốc</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>Mức độ đau đớn mà sinh vật này bị giảm xuống từ nỗi đau.</PainShockThreshold.description>
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>thần kinh nhạy cảm</PsychicSensitivity.label>
+  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
+  <PsychicSensitivity.description>Hệ số về tác động của các hiện tượng tâm linh ảnh hưởng đến người này. Những người nhạy cảm hơn cả phải chịu đựng nhiều hơn từ các hiệu ứng tâm lý tiêu cực, và được hưởng lợi nhiều hơn từ những người tích cực.</PsychicSensitivity.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>hệ số nghỉ ngơi</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>Một hệ số về cách một sinh vật nghỉ ngơi nhanh chóng trong khi ngủ.</RestRateMultiplier.description>
+  
+  <!-- EN: toxic sensitivity -->
+  <ToxicSensitivity.label>độc hại nhạy cảm</ToxicSensitivity.label>
+  <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
+  <ToxicSensitivity.description>Hệ số về tác động của sự tích tụ độc hại đối với sinh vật này.</ToxicSensitivity.description>
+  
+</LanguageData>

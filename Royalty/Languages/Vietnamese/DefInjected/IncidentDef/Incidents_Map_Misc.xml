@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abasia join -->
+  <WandererJoinAbasia.label>cư dân bị liệt gia nhập</WandererJoinAbasia.label>
+  <WandererJoinAbasia.letterLabel>Sự cố kén vận chuyển: {PAWN_nameDef}</WandererJoinAbasia.letterLabel>
+  <WandererJoinAbasia.letterText>Một {PAWN_title} có tên {PAWN_nameDef} đang gặp sự cố trong một nhóm vận tải gần đó.\n\n{PAWN_nameDef} đang bị {HEDIFF_label} và sẽ không thể đi lại được.\n\n{PAWN_pronoun} sẽ phục hồi tự nhiên sau nhiều ngày. Cũng có cơ hội phục hồi nhanh chóng. {HEDIFF_label} cũng có thể được chữa khỏi bằng một cuộc phẫu thuật đặc biệt đòi hỏi một lượng lớn thuốc glitterworld.\n\n[PAWN_pronoun] sẵn sàng đóng góp sau khi {PAWN_pronoun} đã khôi phục, nhưng sẽ không tự nguyện rời đi. Nếu không muốn {PAWN_nameDef}, bạn có thể trục xuất {PAWN_objective}, bán {PAWN_objective} làm nô lệ hoặc để {PAWN_objective} chết. Tuy nhiên, những cư dân khác của bạn có thể thấy điều này là đáng lo ngại.</WandererJoinAbasia.letterText>
+  
+</LanguageData>

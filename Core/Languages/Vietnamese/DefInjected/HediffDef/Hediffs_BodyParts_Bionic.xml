@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic arm -->
+  <BionicArm.label>cánh tay sinh học</BionicArm.label>
+  <!-- EN: An installed bionic arm. -->
+  <BionicArm.description>Một cánh tay sinh học được lắp đặt.</BionicArm.description>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>nắm tay</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>một cánh tay sinh học</BionicArm.labelNoun>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>tai sinh học</BionicEar.label>
+  <!-- EN: An installed bionic ear. -->
+  <BionicEar.description>Một tai sinh học được lắp đặt.</BionicEar.description>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>một cái tai sinh học</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>mắt sinh học</BionicEye.label>
+  <!-- EN: An installed bionic eye. -->
+  <BionicEye.description>Một mắt sinh học được lắp đặt.</BionicEye.description>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>một con mắt sinh học</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>tim sinh học</BionicHeart.label>
+  <!-- EN: An installed bionic heart. -->
+  <BionicHeart.description>Một trái tim sinh học được lắp đặt.</BionicHeart.description>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>một trái tim sinh học</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>chân sinh học</BionicLeg.label>
+  <!-- EN: An installed bionic leg. -->
+  <BionicLeg.description>Một chân sinh học được lắp đặt.</BionicLeg.description>
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>một cái chân sinh học</BionicLeg.labelNoun>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>cột sống sinh học</BionicSpine.label>
+  <!-- EN: An installed bionic spine. -->
+  <BionicSpine.description>Một cột sống sinh học được lắp đặt.</BionicSpine.description>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>một cái cột sống sinh học</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>dạ dày sinh học</BionicStomach.label>
+  <!-- EN: An installed bionic stomach. -->
+  <BionicStomach.description>Một dạ dày sinh học được lắp đặt.</BionicStomach.description>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>một cái dạ dày sinh học</BionicStomach.labelNoun>
+  
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>lưỡi sinh học</BionicTongue.label>
+  <!-- EN: An installed bionic tongue. -->
+  <BionicTongue.description>Một lưỡi sinh học được cài đặt.</BionicTongue.description>
+  <!-- EN: a bionic tongue -->
+  <BionicTongue.labelNoun>một cái lưỡi sinh học</BionicTongue.labelNoun>
+  
+  <!-- EN: death acidifier -->
+  <DeathAcidifier.label>lắp a-xít hủy xác</DeathAcidifier.label>
+  <!-- EN: An installed death acidifier. -->
+  <DeathAcidifier.description>Một a-xít hủy xác được lắp đặt đặt bên trong.</DeathAcidifier.description>
+  <!-- EN: a death acidifier -->
+  <DeathAcidifier.labelNoun>một a-xít huỷ xác</DeathAcidifier.labelNoun>
+  
+</LanguageData>

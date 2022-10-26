@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: harp -->
+  <Harp.label>đàn hạc</Harp.label>
+  <!-- EN: Craft the harp, a simple stationary musical instrument popular among nobility in some cultures. -->
+  <Harp.description>Chế tạo đàn hạc, một nhạc cụ cố định đơn giản phổ biến trong giới quý tộc ở một số nền văn hóa.</Harp.description>
+  
+  <!-- EN: harpsichord -->
+  <Harpsichord.label>đàn harpsichord</Harpsichord.label>
+  <!-- EN: Craft the harpsichord, a complex stationary musical instrument. -->
+  <Harpsichord.description>Chế tạo đàn harpsichord, một nhạc cụ văn phòng phẩm phức tạp.</Harpsichord.description>
+  
+  <!-- EN: piano -->
+  <Piano.label>đàn piano</Piano.label>
+  <!-- EN: Craft the piano, an advanced stationary musical instrument. -->
+  <Piano.description>Chế tạo đàn piano, một nhạc cụ cố định tiên tiến.</Piano.description>
+  
+</LanguageData>
